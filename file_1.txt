@@ -2,3 +2,6 @@ This is after first commit
 Hello
 Git class just started.
 In progress
+This is 
+3 lines
+of text
