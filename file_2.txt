@@ -1,0 +1,2 @@
+This is section 03 branching and merging.
+After adding branch new_feature
